@@ -1,0 +1,14 @@
+sample,condition
+A1,RESNone
+A2,RESNone
+A3,RESNone
+B1,RESBt
+B2,RESBt
+B3,RESBt
+C1,SUSNone
+C2,SUSNone
+C3,SUSNone
+D1,SUSBt
+D2,SUSBt
+D3,SUSBt
+
