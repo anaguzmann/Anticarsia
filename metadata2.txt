@@ -1,0 +1,14 @@
+sample,condition,infection
+A1,RES,None
+A2,RES,None
+A3,RES,None
+B1,RES,Bt
+B2,RES,Bt
+B3,RES,Bt
+C1,SUS,None
+C2,SUS,None
+C3,SUS,None
+D1,SUS,Bt
+D2,SUS,Bt
+D3,SUS,Bt
+
